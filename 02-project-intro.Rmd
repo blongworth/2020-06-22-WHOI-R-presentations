@@ -21,6 +21,10 @@ output:
 ## People tend to organize their projects like this:
 
 ![](images/bad_layout.png)
+???
+Most people have folders like this
+
+Looks like my thesis folder
 
 ---
 
@@ -33,6 +37,12 @@ extensions together.
 3. Takes a lot of time to find
 things.
 4. How are data, code and product linked?
+
+???
+
+Ever been asked for data or to reproduce a figure 5y later?
+
+I have. For that thesis folder.
 
 --
 
@@ -114,6 +124,10 @@ Projects often start with a single script, notebook, or some commands in the con
 * When you have a couple of functions, make a script of functions and use `source()` to load them in other files.
 * When you have functions useful outside the project, make a package
 
+???
+
+Let projects build into a reproducible structure, rather than my thesis folder
+
 ---
 
 # Version Control
@@ -135,3 +149,11 @@ One of the most powerful and useful aspects of RStudio is its project management
 Breakouts for challenge 1-3 from:
 
 https://swcarpentry.github.io/r-novice-gapminder/02-project-intro/index.html
+
+???
+
+Discuss environment and reproducibility
+
+If I created `data` while working on one project and then moved to another, what would happen?
+
+If I generated `data` from the console and then use it in a script/notebook, what happens the next time I restart R?
