@@ -5,3 +5,7 @@
 
 ## [Project Organization](/02-project-intro.html)
 
+# Slide presentations for 2021-06-02-WHOI-SQL
+
+## [Introduction](/SQL-Introductions.html)
+
