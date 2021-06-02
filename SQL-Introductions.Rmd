@@ -46,16 +46,18 @@ Software Engineer at WHOI
 
 # .right[Audrey Mickle]
 
-.pull-left[![Audrey Mickle]()]
+.pull-left[![Audrey Mickle](images/IMG_1384.JPG)]
 
 .pull-right[
 
 
-Software Engineer at WHOI
+WHOI Data Librarian
 
-**Research Interests:** 
+**Research Interests:** Open data, open access, data management, and bibliometrics.
 
-**Favorite Database:** 
+
+
+**Favorite Database:** Symplectic Elements, which collects, analyses, showcases grants and scholarly activities. 
 
 ]
 
