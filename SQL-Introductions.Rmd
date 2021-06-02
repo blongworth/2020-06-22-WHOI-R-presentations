@@ -17,7 +17,7 @@ output:
 
 .pull-right[
 
-Research Associate, Geology and Geophysics
+Research Associate in Geology and Geophysics
 
 **Research Interests:** Accelerator Mass Spectrometry, radiocarbon, data mining for method development, links between the marine and terrestrial carbon cycle.
 
@@ -65,16 +65,16 @@ WHOI Data Librarian
 
 # .right[Lyndsey Lefebvre]
 
-.pull-left[![Lyndsey Lefebvre]()]
+.pull-left[![Lyndsey Lefebvre](images/lyndsey_lefebvre.jpg)]
 
 .pull-right[
 
 
-Software Engineer at WHOI
+Research Associate in Biology
 
-**Research Interests:** 
+**Research Interests:** Reproductive physiology & ecology of fishes; data management fledgling but promoter of SQL.
 
-**Favorite Database:** 
+**Favorite Database:** I’m not that involved with data management that I have a favorite, but I love me a clean, well documented relational database.
 
 ]
 
@@ -97,7 +97,7 @@ Systems Administrator at WHOI
 
 ---
 
-# SQL Databases are everywhere!
+## SQL Databases are everywhere!
 
 ![IFCB Dashboard](images/ifcb_dashboard.png)
 
@@ -107,7 +107,7 @@ Systems Administrator at WHOI
 
 https://blongworth.github.io/2021-06-02-WHOI-SQL/
 
---
+---
 
 # A note about survey.db
 
