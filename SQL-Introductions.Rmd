@@ -101,6 +101,12 @@ Software Engineer at WHOI
 
 https://blongworth.github.io/2021-06-02-WHOI-SQL/
 
+--
+
+# A note about survey.db
+
+![wild data](images/wild_data.jpeg)
+
 ---
 
 # Getting help and giving feedback
